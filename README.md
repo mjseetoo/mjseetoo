@@ -1,0 +1,5 @@
+- Hi, I’m Micah Seetoo
+- I'm interested in everything
+- I'm currently learning React and JavaScript
+- I'm currently working on 2 student-led projects
+- my email is micah.seetoo@gmail.com
